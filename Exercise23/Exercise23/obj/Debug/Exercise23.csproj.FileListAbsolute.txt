@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\Exercise23\Exercise23\bin\Debug\Exercise23.exe.config
+C:\Users\zacke\source\repos\Exercise23\Exercise23\bin\Debug\Exercise23.exe
+C:\Users\zacke\source\repos\Exercise23\Exercise23\bin\Debug\Exercise23.pdb
+C:\Users\zacke\source\repos\Exercise23\Exercise23\obj\Debug\Exercise23.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\Exercise23\Exercise23\obj\Debug\Exercise23.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\Exercise23\Exercise23\obj\Debug\Exercise23.exe
+C:\Users\zacke\source\repos\Exercise23\Exercise23\obj\Debug\Exercise23.pdb

@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\bin\Debug\ExerciseNineTeen.exe.config
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\bin\Debug\ExerciseNineTeen.exe
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\bin\Debug\ExerciseNineTeen.pdb
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\obj\Debug\ExerciseNineTeen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\obj\Debug\ExerciseNineTeen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\obj\Debug\ExerciseNineTeen.exe
+C:\Users\zacke\source\repos\ExerciseNineTeen\ExerciseNineTeen\obj\Debug\ExerciseNineTeen.pdb

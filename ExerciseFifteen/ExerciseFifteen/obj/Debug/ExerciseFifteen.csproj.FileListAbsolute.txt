@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\bin\Debug\ExerciseFifteen.exe.config
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\bin\Debug\ExerciseFifteen.exe
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\bin\Debug\ExerciseFifteen.pdb
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\obj\Debug\ExerciseFifteen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\obj\Debug\ExerciseFifteen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\obj\Debug\ExerciseFifteen.exe
+C:\Users\zacke\source\repos\ExerciseFifteen\ExerciseFifteen\obj\Debug\ExerciseFifteen.pdb

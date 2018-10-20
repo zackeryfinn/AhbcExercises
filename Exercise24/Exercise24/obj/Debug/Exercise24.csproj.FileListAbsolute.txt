@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\Exercise24\Exercise24\obj\Debug\Exercise24.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\Exercise24\Exercise24\obj\Debug\Exercise24.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\Exercise24\Exercise24\bin\Debug\Exercise24.exe.config
+C:\Users\zacke\source\repos\Exercise24\Exercise24\bin\Debug\Exercise24.exe
+C:\Users\zacke\source\repos\Exercise24\Exercise24\bin\Debug\Exercise24.pdb
+C:\Users\zacke\source\repos\Exercise24\Exercise24\obj\Debug\Exercise24.exe
+C:\Users\zacke\source\repos\Exercise24\Exercise24\obj\Debug\Exercise24.pdb

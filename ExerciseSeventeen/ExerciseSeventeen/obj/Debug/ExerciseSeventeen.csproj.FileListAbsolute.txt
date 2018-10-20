@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\bin\Debug\ExerciseSeventeen.exe.config
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\bin\Debug\ExerciseSeventeen.exe
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\bin\Debug\ExerciseSeventeen.pdb
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\obj\Debug\ExerciseSeventeen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\obj\Debug\ExerciseSeventeen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\obj\Debug\ExerciseSeventeen.exe
+C:\Users\zacke\source\repos\ExerciseSeventeen\ExerciseSeventeen\obj\Debug\ExerciseSeventeen.pdb

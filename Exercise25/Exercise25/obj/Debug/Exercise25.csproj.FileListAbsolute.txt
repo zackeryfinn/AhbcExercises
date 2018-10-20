@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\Exercise25\Exercise25\bin\Debug\Exercise25.exe.config
+C:\Users\zacke\source\repos\Exercise25\Exercise25\bin\Debug\Exercise25.exe
+C:\Users\zacke\source\repos\Exercise25\Exercise25\bin\Debug\Exercise25.pdb
+C:\Users\zacke\source\repos\Exercise25\Exercise25\obj\Debug\Exercise25.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\Exercise25\Exercise25\obj\Debug\Exercise25.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\Exercise25\Exercise25\obj\Debug\Exercise25.exe
+C:\Users\zacke\source\repos\Exercise25\Exercise25\obj\Debug\Exercise25.pdb

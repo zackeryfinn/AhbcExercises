@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\obj\Debug\ExerciseFourteen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\obj\Debug\ExerciseFourteen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\bin\Debug\ExerciseFourteen.exe.config
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\bin\Debug\ExerciseFourteen.exe
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\bin\Debug\ExerciseFourteen.pdb
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\obj\Debug\ExerciseFourteen.exe
+C:\Users\zacke\source\repos\ExerciseFourteen\ExerciseFourteen\obj\Debug\ExerciseFourteen.pdb

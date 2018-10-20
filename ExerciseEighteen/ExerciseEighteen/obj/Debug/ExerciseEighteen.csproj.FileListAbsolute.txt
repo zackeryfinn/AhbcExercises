@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\obj\Debug\ExerciseEighteen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\obj\Debug\ExerciseEighteen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\bin\Debug\ExerciseEighteen.exe.config
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\bin\Debug\ExerciseEighteen.exe
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\bin\Debug\ExerciseEighteen.pdb
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\obj\Debug\ExerciseEighteen.exe
+C:\Users\zacke\source\repos\ExerciseEighteen\ExerciseEighteen\obj\Debug\ExerciseEighteen.pdb

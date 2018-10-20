@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\bin\Debug\ExerciseThirteen.exe.config
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\bin\Debug\ExerciseThirteen.exe
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\bin\Debug\ExerciseThirteen.pdb
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\obj\Debug\ExerciseThirteen.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\obj\Debug\ExerciseThirteen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\obj\Debug\ExerciseThirteen.exe
+C:\Users\zacke\source\repos\ExerciseThirteen\ExerciseThirteen\obj\Debug\ExerciseThirteen.pdb

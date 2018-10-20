@@ -1,0 +1,6 @@
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\bin\Debug\ExerciseSixteen.exe.config
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\bin\Debug\ExerciseSixteen.exe
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\bin\Debug\ExerciseSixteen.pdb
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\obj\Debug\ExerciseSixteen.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\obj\Debug\ExerciseSixteen.exe
+C:\Users\zacke\source\repos\ExerciseSixteen\ExerciseSixteen\obj\Debug\ExerciseSixteen.pdb
